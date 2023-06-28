@@ -1,0 +1,1 @@
+What I have learned from this project was utilizng Google Colab, Python, Linear Regression, and kNN Models to try and predict new insurance costs based on previous data. I have utilized heatmaps for correlating variables, regression models to find a linear relation between the training and testing set, and one-hot encoding for non-numerical data.
